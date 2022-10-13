@@ -1,0 +1,1 @@
+# GIT de bulunmasını istemediğimiz dosyaları buraya yazarız örnegin img , mp4 , jpg... bunların üstünde degisiklik falan olmayacagi icin "git add ." komutunu kullanınca .gitignore dosyasına bulununlar takip edilmez ve görünmez.
